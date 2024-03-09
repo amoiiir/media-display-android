@@ -53,6 +53,6 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun initializeSeekBar(){
-        
+
     }
 }
